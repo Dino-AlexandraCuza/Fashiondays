@@ -45,8 +45,7 @@ login user/creating new account and verify that the filters are up to be used in
 
 Test cases are executed on the created test Cycle summary: Fashiondays
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
-
+Bugs have been created based on the failed tests. The complete bug reports can be found here:
 The following is a summary of the bugs that have been found
 User can access a masculine pink colour t-shirt with 2 filters: pink and multicolour
 Verify that the user can use all filters on Casio watches- even if the selected watch was searched or accessed by main Casio filter in the main list of products 
