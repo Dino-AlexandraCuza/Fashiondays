@@ -1,13 +1,22 @@
 # Fashiondays
-the scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
+The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
 Application under test: Fashiondays.ro
+
+![fashion days logare 1](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/6145432f-88eb-4b27-baea-a3aff6d76579)
+
 
 Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
 The below stories:How to create a user account,Various scenarios for applying filters, were created in Jira and describes the functional specifications , for which the final project is performed upon.
+
+
+![primu story](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/b9891c93-e17f-4e70-9e0b-08eae8b5de0d)
+
+![story doi](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/19e028fd-c8c3-4cd7-86c6-4580184072e5)
+
 
  The plan identifies the items to be tested, the features to be tested, the types.
 
@@ -34,7 +43,8 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here attachments/files/15860214/test_cases.xlsx)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here:[test_cases (1).xlsx](https://github.com/user-attachments/files/15860365/test_cases.1.xlsx)
+
 
 <h3>1.5 Test Implementation</h3>
 
@@ -57,6 +67,8 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here: ![matrice trasabilitate story](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/75c592f3-c133-4cbf-832c-1abbddf030ef)
+![image](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/85eb706d-7f2e-4f26-90e9-4482af6bb0da)
+
 
 The traceability matrix was generated and can be found here: https://itfclasses.atlassian.net/projects/PTAC?selectedItem=com.thed.zephyr.je__traceability-project-level
 
@@ -64,6 +76,6 @@ Test execution chart was generated and can be found below.
 https://itfclasses.atlassian.net/jira/dashboards/10327
 
 The final report shows that a number 10 tests have failed of a total of 3
-A number of 3 total bugs were found, from which the priority is: all three are medium
+A number of 3 total bugs were found, from which the priority is: one high and two medium.
 
 The tests that ran for this application have suggested that the security of the app can be improved by adding some  limits to the password -maximum of characters, upper or lower cases, alplanumeric combined with special characters, for making the password unique and stronger. The filter section can be improved and in the future to run for all products equally in any form of product search.
