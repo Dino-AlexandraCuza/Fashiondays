@@ -28,7 +28,36 @@ Cuza Alexandra, Andrei Popescu, Elena Ionescu, Mihai Vasile
   <li>Product owner</li>
  The testing process will be executed based on the application requirements. <b>
 
-The following test conditions were found: <br>
+
+    1.1.2 Entry criteria defined
+-ensuring that the test plan will be finished
+-all risk project were mitigated and identified
+
+1.1.3 Exit criteria defined
+-the regresion testing is finished
+-the bugs were identified and fixed
+-the level of execution tests was achieved
+
+1.1.4 Test scope
+Tests in scope:
+The tests are main focused on the creation of new account and the filters.  
+
+Tests not in scope:
+Tests that are in the security and progression range are not covered.
+
+1.1.5 Risks detected
+Project risks:
+Project risks includes security risks  for the instabilty of password account managing.
+
+1.1.6 Evaluating entry criteria
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
+
+
+
+1.3 Test Analysis
+The testing process will be executed based on the application requirements.
+
+The following test conditions were found:
 
 1. The new user should  be  able to create the account by introducing a valid e-mail
 2. Verify that the new user should not be able to create a password only with special characters
