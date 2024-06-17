@@ -50,7 +50,7 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 
 The following elements are needed to be ready before the test execution phase begins:
 login user/creating new account and verify that the filters are up to be used in any situation
-<h3>1.5 Test Implementation</h3
+
 <h3>1.6. Test Execution </h3>
 
 Test cases are executed on the created test Cycle summary: Fashiondays
@@ -66,14 +66,15 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: ![matrice trasabilitate story](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/75c592f3-c133-4cbf-832c-1abbddf030ef)
-![image](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/85eb706d-7f2e-4f26-90e9-4482af6bb0da)
+The traceability matrix was generated and can be found here:
+![image](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/dc19c5f8-f5d1-45e3-8064-c2ed5ba0ec13)
 
 
 The traceability matrix was generated and can be found here: https://itfclasses.atlassian.net/projects/PTAC?selectedItem=com.thed.zephyr.je__traceability-project-level
 
 Test execution chart was generated and can be found below. 
 https://itfclasses.atlassian.net/jira/dashboards/10327
+![image](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/85eb706d-7f2e-4f26-90e9-4482af6bb0da)
 
 The final report shows that a number 10 tests have failed of a total of 3
 A number of 3 total bugs were found, from which the priority is: one high and two medium.
