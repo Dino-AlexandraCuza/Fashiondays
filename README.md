@@ -26,6 +26,7 @@ Cuza Alexandra, Andrei Popescu, Elena Ionescu, Mihai Vasile
 <ul>
   <li>Project manager</li> 
   <li>Product owner</li>
+ 
  The testing process will be executed based on the application requirements. 
 
 
@@ -54,7 +55,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 
 
-<h4>1.2 Test Analysis<h4/>
+**1.2 Test Analysis**
 
 The testing process will be executed based on the application requirements.
 
@@ -94,11 +95,18 @@ The user shouldn't be able to create an account with only special characters pas
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-1.6 Test Completion
+**1.6 Test Completion**
+
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here:
-![image](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/dc19c5f8-f5d1-45e3-8064-c2ed5ba0ec13)
+
+![trasa3](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/e6b6f74e-d882-442f-a12e-098592a89a55)
+
+
+
+![trasa4](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/e4f0ed4a-9ce8-4e26-b4af-473e31b79678)
+
 
 
 The traceability matrix was generated and can be found here: [Traceability matrix](https://itfclasses.atlassian.net/projects/PTAC?selectedItem=com.thed.zephyr.je__traceability-project-level)
