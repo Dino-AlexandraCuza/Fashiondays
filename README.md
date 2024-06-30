@@ -55,6 +55,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 
 1.3 Test Analysis
+
 The testing process will be executed based on the application requirements.
 
 The following test conditions were found:
