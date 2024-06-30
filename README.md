@@ -61,18 +61,28 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 The testing process will be executed based on the application requirements.
 
-The following test conditions were found:<br>
+The following test conditions were found:
 
-**1. The new user should  be  able to create the account by introducing a valid e-mail
-2. Verify that the new user should not be able to create a password only with special characters
-3. Verify that the new user should not  be able to create  an account with an already taken e-mail
-4. Verify that the new user should be able to create a password with alphanumeric characters
-5. Verify that the user can access a masculine pink colour t-shirt with 2 filters: pink and multicolour
-6. Verify that the user can access a masculine black sport  t-shirt : using filters-colour and sport
-7. Verify that the user can add the t-shirt wanted to "Favorites"
-8. Verify that the user can use all filters on Casio watches- even if the selected  watch was searched or accessed by main Casio filter in the main list of products
-9. Verify that the user can acces a yellow t-shirt, without sleeves, and filtered  by "New collection"
-10. Verify that the user can not access a pair of shoes  which are out of stoc**
+**1. The new user should  be  able to create the account by introducing a valid e-mail**
+
+**2. Verify that the new user should not be able to create a password only with special characters**
+ 
+**3. Verify that the new user should not  be able to create  an account with an already taken e-mail**
+ 
+**4. Verify that the new user should be able to create a password with alphanumeric characters**
+ 
+**5. Verify that the user can access a masculine pink colour t-shirt with 2 filters: pink and multicolour**
+ 
+**6. Verify that the user can access a masculine black sport  t-shirt : using filters-colour and sport**
+ 
+**7. Verify that the user can add the t-shirt wanted to "Favorites"**
+ 
+**8. Verify that the user can use all filters on Casio watches- even if the selected  watch was searched or accessed by main Casio filter in the main list of products**
+ 
+**9. Verify that the user can acces a yellow t-shirt, without sleeves, and filtered  by "New collection"**
+ 
+**10. Verify that the user can not access a pair of shoes  which are out of stoc**
+ 
 
 
 <h3>1.3 Test Design</h3>
