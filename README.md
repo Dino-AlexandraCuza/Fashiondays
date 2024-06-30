@@ -26,7 +26,7 @@ Cuza Alexandra, Andrei Popescu, Elena Ionescu, Mihai Vasile
 <ul>
   <li>Project manager</li> 
   <li>Product owner</li>
- The testing process will be executed based on the application requirements. <b>
+ The testing process will be executed based on the application requirements. 
 
 
     1.1.2 Entry criteria defined
@@ -70,9 +70,10 @@ The following test conditions were found:
 9. Verify that the user can acces a yellow t-shirt, without sleeves, and filtered  by "New collection"
 10. Verify that the user can not access a pair of shoes  which are out of stock
 
+
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here:[test_cases (1).xlsx](https://github.com/user-attachments/files/15860365/test_cases.1.xlsx)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here:[Test Cases](https://github.com/user-attachments/files/15860365/test_cases.1.xlsx)
 
 
 <h3>1.5 Test Implementation</h3>
@@ -99,13 +100,13 @@ The traceability matrix was generated and can be found here:
 ![image](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/dc19c5f8-f5d1-45e3-8064-c2ed5ba0ec13)
 
 
-The traceability matrix was generated and can be found here: https://itfclasses.atlassian.net/projects/PTAC?selectedItem=com.thed.zephyr.je__traceability-project-level
+The traceability matrix was generated and can be found here: [Traceability matrix](https://itfclasses.atlassian.net/projects/PTAC?selectedItem=com.thed.zephyr.je__traceability-project-level)
 
 Test execution chart was generated and can be found below. 
-https://itfclasses.atlassian.net/jira/dashboards/10327
+[Test Execution chart](https://itfclasses.atlassian.net/jira/dashboards/1037)
 ![image](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/85eb706d-7f2e-4f26-90e9-4482af6bb0da)
 
-The final report shows that a number 10 tests have failed of a total of 3
+The final report shows that a number 10 tests have failed of a total of 3.
 A number of 3 total bugs were found, from which the priority is: one high and two medium.
 
 The tests that ran for this application have suggested that the security of the app can be improved by adding some  limits to the password -maximum of characters, upper or lower cases, alplanumeric combined with special characters, for making the password unique and stronger. The filter section can be improved and in the future to run for all products equally in any form of product search.
