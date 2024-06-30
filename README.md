@@ -20,7 +20,7 @@ The below stories:How to create a user account,Various scenarios for applying fi
 
  The plan identifies the items to be tested, the features to be tested, the types.
 
-<h4>1.1.1. Roles asigned to the project and persons allocated</h4>
+<h4>1.1. Roles asigned to the project and persons allocated</h4>
 
 Cuza Alexandra, Andrei Popescu, Elena Ionescu, Mihai Vasile
 <ul>
@@ -29,20 +29,20 @@ Cuza Alexandra, Andrei Popescu, Elena Ionescu, Mihai Vasile
  The testing process will be executed based on the application requirements. 
 
 
-    1.1.2 Entry criteria defined
+ 1.1.1 Entry criteria defined
 -ensuring that the test plan will be finished
 -all risk project were mitigated and identified
 
-1.1.3 Exit criteria defined
+1.1.2 Exit criteria defined
 -the regresion testing is finished
 -the bugs were identified and fixed
 -the level of execution tests was achieved
 
-1.1.4 Test scope
+1.1.3 Test scope
 Tests in scope:
 The tests are main focused on the creation of new account and the filters.  
 
-Tests not in scope:
+1.1.4Tests not in scope:
 Tests that are in the security and progression range are not covered.
 
 1.1.5 Risks detected
@@ -54,11 +54,11 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 
 
-1.3 Test Analysis
+<h4>1.2 Test Analysis<h4/>
 
 The testing process will be executed based on the application requirements.
 
-The following test conditions were found:
+The following test conditions were found:<br>
 
 1. The new user should  be  able to create the account by introducing a valid e-mail
 2. Verify that the new user should not be able to create a password only with special characters
@@ -69,20 +69,20 @@ The following test conditions were found:
 7. Verify that the user can add the t-shirt wanted to "Favorites"
 8. Verify that the user can use all filters on Casio watches- even if the selected  watch was searched or accessed by main Casio filter in the main list of products
 9. Verify that the user can acces a yellow t-shirt, without sleeves, and filtered  by "New collection"
-10. Verify that the user can not access a pair of shoes  which are out of stock
+10. Verify that the user can not access a pair of shoes  which are out of stoc
 
 
-<h3>1.4 Test Design</h3>
+<h3>1.3 Test Design</h3>
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here:[Test Cases](https://github.com/user-attachments/files/15860365/test_cases.1.xlsx)
 
 
-<h3>1.5 Test Implementation</h3>
+<h3>1.4 Test Implementation</h3>
 
 The following elements are needed to be ready before the test execution phase begins:
 login user/creating new account and verify that the filters are up to be used in any situation
 
-<h3>1.6. Test Execution </h3>
+<h3>1.5 Test Execution </h3>
 
 Test cases are executed on the created test Cycle summary: Fashiondays
 
@@ -94,7 +94,7 @@ The user shouldn't be able to create an account with only special characters pas
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-1.7 Test Completion
+1.6 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here:
