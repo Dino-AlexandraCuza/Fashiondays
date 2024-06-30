@@ -12,10 +12,12 @@ Tools used: Jira, Zephyr Squad.
 
 The below stories:How to create a user account,Various scenarios for applying filters, were created in Jira and describes the functional specifications , for which the final project is performed upon.
 
+![storyok](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/f1a8a5c6-53e1-473a-83f5-b2c35edb187d)
 
-![primu story](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/b9891c93-e17f-4e70-9e0b-08eae8b5de0d)
+![storu2 ok](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/666328fe-695c-4153-ae55-98cbd7a99dca)
 
-![story doi](https://github.com/Dino-AlexandraCuza/Fashiondays/assets/167756289/19e028fd-c8c3-4cd7-86c6-4580184072e5)
+
+
 
 
  The plan identifies the items to be tested, the features to be tested, the types.
