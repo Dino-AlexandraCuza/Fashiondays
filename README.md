@@ -63,7 +63,7 @@ The testing process will be executed based on the application requirements.
 
 The following test conditions were found:<br>
 
-1. The new user should  be  able to create the account by introducing a valid e-mail
+**1. The new user should  be  able to create the account by introducing a valid e-mail
 2. Verify that the new user should not be able to create a password only with special characters
 3. Verify that the new user should not  be able to create  an account with an already taken e-mail
 4. Verify that the new user should be able to create a password with alphanumeric characters
@@ -72,7 +72,7 @@ The following test conditions were found:<br>
 7. Verify that the user can add the t-shirt wanted to "Favorites"
 8. Verify that the user can use all filters on Casio watches- even if the selected  watch was searched or accessed by main Casio filter in the main list of products
 9. Verify that the user can acces a yellow t-shirt, without sleeves, and filtered  by "New collection"
-10. Verify that the user can not access a pair of shoes  which are out of stoc
+10. Verify that the user can not access a pair of shoes  which are out of stoc**
 
 
 <h3>1.3 Test Design</h3>
